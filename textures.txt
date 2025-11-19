@@ -1,4 +1,4 @@
-// Quest texture category file
+texture category file
 
 "Lights"
 {
