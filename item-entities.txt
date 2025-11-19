@@ -1,0 +1,66 @@
+player  
+info_player_start  
+info_player_deathmatch  
+func_wall  
+func_door  
+func_button  
+func_plat  
+func_train  
+func_areaportal  
+func_explosive  
+trigger_multiple  
+trigger_once  
+trigger_hurt  
+trigger_push  
+trigger_teleport  
+light  
+light_environment  
+ambient_generic  
+
+// Weapons  
+weapon_axe  
+weapon_shotgun  
+weapon_supershotgun  
+weapon_nailgun  
+weapon_supernailgun  
+weapon_grenadelauncher  
+weapon_rocketlauncher  
+weapon_lightning  
+
+// Ammo / Items  
+item_shells  
+item_spikes  
+item_rockets  
+item_cells  
+item_health  
+item_backpack  
+item_armor1  
+item_armor2  
+item_armorInv  
+
+// Artifacts / Powerups  
+item_artifact_envirosuit  
+item_artifact_invisibility  
+item_artifact_invulnerability  
+item_artifact_super_damage  
+
+// Keys  
+item_key1  
+item_key2  
+
+// Monsters  
+monster_grunt  
+monster_knight  
+monster_enforcer  
+monster_ogre  
+monster_deathknight  
+monster_fiend  
+monster_vore  
+monster_shambler  
+monster_chthon  
+monster_shubniggurath  
+monster_dog  
+monster_zombie  
+monster_spawn  
+monster_rotfish  
+monster_boss
