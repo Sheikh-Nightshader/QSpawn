@@ -92,10 +92,11 @@ After exporting a map:
   Then your map is ready to play in Quake.
   
 Notes:
-- Any texture or entity name can be used; defaults are just suggestions.
+- Any texture or entity name can be used; defaults are just suggestions. You need a texture wad named tex.wad which contains the source textures. If you mapped quake before you would know. I have it in the .map header under worldspawn, the default directory to it. "C:\quake\TEX.WAD"
 - Coordinates for items and monsters are added automatically in the map file.
 - Fully CLI-based, no GUI required.
 - Need Tools for compiling .map files qbsp, vis, map etc.
+- Finally and important to mention this is only in Beta!!! There may be issues. It works and I made test maps with it.
 
 License:
 MIT
