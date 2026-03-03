@@ -90,6 +90,18 @@ After exporting a map:
        light yourmap.bsp
 
   Then your map is ready to play in Quake.
+
+Sample Test Map (one command at a time)
+
+NEW
+ROOM 0 0 128 512 512 256
+PLAYER 0 0 64
+LIGHT 0 0 200 400
+ITEM weapon_shotgun 50 0 64
+ITEM monster_army -100 0 64 angle=90
+EXPORT test.map
+EXIT
+
   
 Notes:
 - Any texture or entity name can be used; defaults are just suggestions. You need a texture wad named tex.wad which contains the source textures. If you mapped quake before you would know. I have it in the .map header under worldspawn, the default directory to it. "C:\quake\TEX.WAD"
