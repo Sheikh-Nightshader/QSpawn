@@ -94,12 +94,19 @@ After exporting a map:
 Sample Test Map (one command at a time)
 
 NEW
+
 ROOM 0 0 128 512 512 256
+
 PLAYER 0 0 64
+
 LIGHT 0 0 200 400
+
 ITEM weapon_shotgun 50 0 64
+
 ITEM monster_army -100 0 64 angle=90
+
 EXPORT test.map
+
 EXIT
 
   
